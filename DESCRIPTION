@@ -1,0 +1,13 @@
+Package: students
+Maintainer: Gergely Daróczi <daroczig@ceu.edu>
+Title: Students dataset
+Type: Package
+Encoding: UTF-8
+Description: A mysterious dataset on students.
+Author: Gergely Daróczi <daroczig@ceu.edu>
+Version: 1.0
+Date: 2024-01-22
+License: MIT
+LazyData: yes
+LazyLoad: yes
+RoxygenNote: 7.2.3
